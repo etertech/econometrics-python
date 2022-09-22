@@ -134,3 +134,7 @@ funds.db
 
 #office tmp
 ~$*
+
+#Eviews
+*~f1
+*_Snapshots
